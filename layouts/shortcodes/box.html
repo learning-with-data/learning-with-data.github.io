@@ -1,0 +1,31 @@
+{{ $imgSrc := .Get "img-src" }}
+{{ $imgAlt := .Get "img-alt" }}
+{{ $href := .Get "href" }}
+{{ $title := .Get "title" }}
+
+{{- with .Parent -}}
+
+{{- $cols := .Get "cols" -}}
+{{ $columWidth := "is-half" }}
+{{ if eq $cols "3" }}
+    {{ $columWidth = "is-one-third" }}
+{{ end }}
+
+<div class="column {{ $columWidth }}">
+    <div class="card">
+        <div class="card-image">
+            <figure class="image is-4by3">
+                <a href="{{ $href }}">
+                    <img class="card-thumbnail" src="{{ $imgSrc }}" alt ="{{ $imgAlt }}">
+                </a>
+            </figure>
+        </div>
+        <div class="card-content has-text-centered top-pad">
+            <a href="{{ $href }}">
+                {{ $title | markdownify }}
+            </a>
+        </div>
+    </div>
+</div>
+
+{{- end }}
