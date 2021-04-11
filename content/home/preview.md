@@ -8,6 +8,6 @@ _Dataland_ is being developed as a set of distinct "microworlds". Each microworl
 __Please note that _Dataland_ is very much work-in-progress. The software might change significantly without any advance notice. Please do not use it in a classroom or to create projects that you might want to edit or use later.__
 
 {{<boxgrid cols="2">}}
-{{<box img-src="/images/dataland-maps.png" img-alt="Dataland: Maps microworld" href="https://learning-with-data.github.io/dataland-gui/?microworld=maps" title="Maps microworld">}}
-{{<box img-src="/images/dataland-plots.png" img-alt="Dataland: Plots microworld" href="https://learning-with-data.github.io/dataland-gui/?microworld=plots" title="Plots microworld">}}
+    {{<box img-src="/images/dataland-maps.png" img-alt="Dataland: Maps microworld" href="https://learning-with-data.github.io/dataland-gui/?microworld=maps" title="Maps microworld">}}
+    {{<box img-src="/images/dataland-plots.png" img-alt="Dataland: Plots microworld" href="https://learning-with-data.github.io/dataland-gui/?microworld=plots" title="Plots microworld">}}
 {{</boxgrid>}}
