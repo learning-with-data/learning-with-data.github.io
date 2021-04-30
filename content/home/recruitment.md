@@ -4,11 +4,9 @@ title: "Participating in Our Research"
 
 **We are now looking for participants in our Dataland research study!**
 
-Participants aged 8-17 can take part in a research study, consisting of a series of online workshops where participants will try out the Dataland software. 
+Participants aged 8-17 can take part in a research study. We want to understand how young learners are using Dataland, and what difficulties they have when they use the software.
 
-Participation is voluntary and free of cost. We want to understand how young learners are using Dataland, and what difficulties they have when they use the software.
-
-Workshops will be organized online over Zoom. Members of the research team will facilitate the workshops. 
+The study includes a series of online workshops where participants will try out the Dataland software. Participation is voluntary and free of cost. Members of the research team will facilitate the workshops. 
 
 If you are interested in participating, please sign up HERE (_link coming soon_).
 
