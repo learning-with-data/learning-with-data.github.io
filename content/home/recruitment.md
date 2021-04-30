@@ -10,4 +10,4 @@ The study includes a series of online workshops where participants will try out 
 
 If you are interested in participating, please sign up HERE (_link coming soon_).
 
-_We will not share any of the information submitted through the sign-up form with anyone outside of our research team; signing up does **NOT** automatically enroll you in the research study._
+**We will not share any of the information submitted through the sign-up form with anyone outside of our research team; signing up does NOT automatically enroll you in the research study.**
