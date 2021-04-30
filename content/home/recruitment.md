@@ -1,5 +1,5 @@
 ---
-title: "Participating in Our Research Study"
+title: "Participating in Our Research"
 ---
 
 **We are now looking for participants in our Dataland research study!**
