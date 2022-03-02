@@ -5,6 +5,8 @@
 # https://discourse.gohugo.io/t/should-i-add-resources-to-gitignore/20064
 /resources
 
+.hugo_build.lock
+
 ## OS Files
 # Windows
 Thumbs.db
