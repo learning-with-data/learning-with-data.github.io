@@ -1,6 +1,6 @@
 baseURL = "https://learning-with-data.github.io/"
 languageCode = "en"
-title = "Dataland"
+title = "Dataland: A block-based programming system for learning with data"
 theme = "introduction"
 
 [params]
