@@ -11,3 +11,8 @@ theme = "introduction"
     [params.home]
         introHeight              = "medium"
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
