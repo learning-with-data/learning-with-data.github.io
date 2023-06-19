@@ -3,4 +3,4 @@ title: "Project Team"
 weight: 3
 ---
 
-Contributors to the _Dataland_ project include [Lingyu Wang](https://sites.google.com/view/lingyuwang), [Regina Cheng](https://reginachangzhou.github.io/), [Aayushi Dangol](https://www.aayushidangol.com/), and [Sayamindu Dasgupta](https://unmad.in/) (project PI).
+Contributors to the _Dataland_ project include Regina Cheng, Aayushi Dangol, Sayamindu Dasgupta (project PI), Frances Marie Tabio Ello, Shivam Hingorani, Chris Lyu, Lingyu Wang, and Mari Woodworth.
